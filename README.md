@@ -10,7 +10,7 @@ gõ:
 yum -y install nano wget perl
 
 
-wget https://raw.githubusercontent.com/congpho/DA153/master/setup.sh
+wget https://raw.githubusercontent.com/free660099/da153/master/setup.sh
 
 
 chmod +x setup.sh
